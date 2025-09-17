@@ -13,7 +13,7 @@
     <samp>
       <br><br>
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=I'm+ary+(qursns)" 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=I'm+ary+(qursary)" 
         alt="???">
         <p align="center">
       [<a href="https://twitter.com/qursary">twitter</a>]&nbsp;&nbsp;
@@ -25,7 +25,7 @@
 
   <p align="center">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=c6at&count_private=true&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&line_height=24" 
+      src="https://github-readme-stats.vercel.app/api?username=qursary&count_private=true&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&line_height=24" 
       alt="stats">
     
   </p>
