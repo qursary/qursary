@@ -25,7 +25,7 @@
 
   <p align="center">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=qursary&count_private=true&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&line_height=24" 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=p2tdqxrqbsqv47n63yfp655kv&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true" 
       alt="stats">
     
   </p>
